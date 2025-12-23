@@ -1,4 +1,4 @@
-### https://velog.io/@ovozzx/posts
+### https://velog.io/@ovozzx
 
 ## 🛠 Tech Stack
 - Backend: Java, Spring Boot, Spring Security
