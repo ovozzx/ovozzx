@@ -8,7 +8,7 @@
 - Infra: AWS EC2, Docker
 - DevOps & Tools: Git, GitHub, Jenkins
 - Testing & DB Tools: Postman, DBeaver
-- IDE: STS, VS Code
+- IDE: IntelliJ, STS, VS Code
 
 
 
